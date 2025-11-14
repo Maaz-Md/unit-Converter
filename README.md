@@ -51,4 +51,8 @@ npm run dev
 # Then open the app in your browser at 
 http://localhost:5173/
 ```
+
+### Live Demo
+
 ---
+#### Click **[here](https://maaz-md.github.io/unit-Converter/)** to view deployed app
